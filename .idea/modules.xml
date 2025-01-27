@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LetsGoMoonSong.iml" filepath="$PROJECT_DIR$/.idea/LetsGoMoonSong.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pjms/pjms.iml" filepath="$PROJECT_DIR$/pjms/pjms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetsGoMoonSong.iml" filepath="$PROJECT_DIR$/LetsGoMoonSong.iml" />
     </modules>
   </component>
 </project>
