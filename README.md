@@ -1,7 +1,7 @@
 # LetsGoMoonSong
 문송합니다
 
-|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="![Image](https://github.com/user-attachments/assets/6856a19f-6d50-42e3-974d-62812e710333)" alt="송지원" width="50" height="50">|
+|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://i.namu.wiki/i/r2EcfxEiedfDOF4bflCzPg5Z0r8aKO0kiGg1PSEldxZ55NQIzesU4B55HvV0GLnJdsZbFEdVIMmxKEei6kYU1ZWFkudpqvbxCD0QaklPxci0O_W5YrnqYp9N6oW8n_TZz6FQTVsob3YRGWo6YT8IFw.webp" alt="송지원" width="50" height="50">|
 |---|---|
 |문준호|송지원|
 
