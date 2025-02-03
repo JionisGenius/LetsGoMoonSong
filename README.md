@@ -42,3 +42,7 @@ feature
 [[PGMS][전화번호부][LV2]](https://school.programmers.co.kr/learn/courses/30/lessons/42577) 2025/01/15  
 [[PGMS][의상][LV2]](https://school.programmers.co.kr/learn/courses/30/lessons/42578) 2025/01/20  
 [[BOJ][할리갈리][B2]](https://www.acmicpc.net/problem/27160) 2025/01/26  
+[[BOJ][벌집][B2]](https://www.acmicpc.net/problem/2292) 250203
+[[BOJ][영식이와친구들][B2]](https://www.acmicpc.net/problem/1592) 250205
+[[BOJ][일곱난쟁이][B1]](https://www.acmicpc.net/problem/2309) 250207
+
