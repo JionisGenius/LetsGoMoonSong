@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="프로젝트 생성">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/25__1__27___11_39__________.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b2_32979_아파트/joonho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/b2_1952_영식이와친구들/joonho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/b2_1952_영식이와친구들/joonho.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +34,12 @@
     &quot;assignee&quot;: &quot;munjh61&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JionisGenius/LetsGoMoonSong.git&quot;,
-    &quot;accountId&quot;: &quot;7c7c268c-4bf2-422f-8496-60eb14593bc7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JionisGenius/LetsGoMoonSong.git",
+    "accountId": "0cd25fa8-77c6-4cdd-a96a-134c67132f7a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -54,7 +53,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SelfStudy/CodingTest",
+    "last_opened_file_path": "C:/Users/junho/OneDrive/Desktop/git/LetsGoMoonSong",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
