@@ -46,5 +46,5 @@ feature
 [[BOJ][영식이와친구들][B2]](https://www.acmicpc.net/problem/1592) 2025/02/05  
 [[BOJ][일곱난쟁이][B1]](https://www.acmicpc.net/problem/2309) 2025/02/07  
 [[BOJ][아파트][S5]](https://www.acmicpc.net/problem/32979)  2025/02/07  
-[[BOJ][설탕배달][s5]](https://www.acmicpc.net/problem/2839)  2025/02/10
+[[BOJ][설탕배달][S5]](https://www.acmicpc.net/problem/2839)  2025/02/10
 
