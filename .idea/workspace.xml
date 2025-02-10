@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250128_1952_영식이와친구들_문준호">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/b1_2309_일곱난쟁이/joonho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250210_2309_일곱난쟁이_문준호">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/s5_2839_설탕배달/joonho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SelfStudy/CodingTest",
+    "last_opened_file_path": "C:/SelfStudy/git/LetsGoMoonSong",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737991220477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="250210_2309_일곱난쟁이_문준호">
+      <option name="closed" value="true" />
+      <created>1739186114275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739186114275</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="프로젝트 생성" />
     <MESSAGE value="250128_1952_영식이와친구들_문준호" />
-    <option name="LAST_COMMIT_MESSAGE" value="250128_1952_영식이와친구들_문준호" />
+    <MESSAGE value="250210_2309_일곱난쟁이_문준호" />
+    <option name="LAST_COMMIT_MESSAGE" value="250210_2309_일곱난쟁이_문준호" />
   </component>
 </project>
