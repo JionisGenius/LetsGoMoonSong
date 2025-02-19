@@ -4,7 +4,7 @@
 
 문과없는 문송팀
 
-|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://images.imyfone.com/kr/assets/article/change-location/pokemonster-ditto.jpg" alt="송지원" width="50" height="50">|
+|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://images.imyfone.com/kr/assets/article/change-location/pokemonster-ditto.jpg(https://blog.kakaocdn.net/dn/lzgJB/btr4JKTcA3k/o5PKrYIiyLroukkQdQqqk1/img.png)" alt="송지원" width="50" height="50">|
 |---|---|
 |문준호|송지원|
 
