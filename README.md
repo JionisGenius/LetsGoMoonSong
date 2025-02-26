@@ -48,4 +48,5 @@ feature
 [[BOJ][아파트][S5]](https://www.acmicpc.net/problem/32979)  2025/02/07  
 [[BOJ][설탕배달][S5]](https://www.acmicpc.net/problem/2839)  2025/02/10  
 [[BOJ][유미][S5]](https://www.acmicpc.net/problem/17286)  2025/02/19  
+[[SWEA][원재의 메모리복구하기][d3](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN&categoryId=AV19AcoKI9sCFAZN&categoryType=CODE&problemTitle=메모리&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&) 2025/02/26
 
