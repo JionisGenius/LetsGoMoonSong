@@ -4,7 +4,7 @@
 
 문과없는 문송팀
 
-|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://i.namu.wiki/i/r2EcfxEiedfDOF4bflCzPg5Z0r8aKO0kiGg1PSEldxZ55NQIzesU4B55HvV0GLnJdsZbFEdVIMmxKEei6kYU1ZWFkudpqvbxCD0QaklPxci0O_W5YrnqYp9N6oW8n_TZz6FQTVsob3YRGWo6YT8IFw.webp" alt="송지원" width="50" height="50">|
+|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://blog.kakaocdn.net/dn/lzgJB/btr4JKTcA3k/o5PKrYIiyLroukkQdQqqk1/img.png" alt="송지원" width="50" height="50">|
 |---|---|
 |문준호|송지원|
 
@@ -46,5 +46,6 @@ feature
 [[BOJ][영식이와친구들][B2]](https://www.acmicpc.net/problem/1592) 2025/02/05  
 [[BOJ][일곱난쟁이][B1]](https://www.acmicpc.net/problem/2309) 2025/02/07  
 [[BOJ][아파트][S5]](https://www.acmicpc.net/problem/32979)  2025/02/07  
-[[BOJ][설탕배달][S5]](https://www.acmicpc.net/problem/2839)  2025/02/10
+[[BOJ][설탕배달][S5]](https://www.acmicpc.net/problem/2839)  2025/02/10  
+[[BOJ][유미][S5]](https://www.acmicpc.net/problem/17286)  2025/02/19  
 
