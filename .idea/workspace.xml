@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250210_2309_일곱난쟁이_문준호">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/s5_2839_설탕배달/joonho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_14555_공과잡초/jioni.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,9 @@
     &quot;accountId&quot;: &quot;e97f7eb0-ec98-4e4d-857b-ac4d86fcb26c&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -53,7 +56,7 @@
     "git-widget-placeholder": "jioni",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SelfStudy/git/LetsGoMoonSong",
+    "last_opened_file_path": "C:/Users/User/Desktop/LetsGoMoonSong",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
