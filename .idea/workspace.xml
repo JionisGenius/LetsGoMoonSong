@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250210_2309_일곱난쟁이_문준호">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_14555_공과잡초/jioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_1289_메모리복구/joonho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_14555_공과잡초/joonho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/s5_17286_유미/Joonho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "jioni",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/LetsGoMoonSong",
