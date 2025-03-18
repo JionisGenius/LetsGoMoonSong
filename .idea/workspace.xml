@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250210_2309_일곱난쟁이_문준호">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_1289_메모리복구/joonho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/d3_14555_공과잡초/joonho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/s5_17286_유미/Joonho.java" afterDir="false" />
+    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/25__2__28___10_27__________.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/25__2__28___9_15__________.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/25__2__28__오후_10_27,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/25__2__28__오후_9_15,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "애플리케이션.dosik.executor": "Run",
     "애플리케이션.jioni.executor": "Run",
     "애플리케이션.joonho.executor": "Run"
   },
@@ -131,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740585428312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="250210_2309_일곱난쟁이_문준호">
+      <option name="closed" value="true" />
+      <created>1740749342284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749342284</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,8 +159,8 @@
     <MESSAGE value="프로젝트 생성" />
     <MESSAGE value="250128_1952_영식이와친구들_문준호" />
     <MESSAGE value="Merge branch 'refs/heads/main' into jioni" />
-    <MESSAGE value="250210_2309_일곱난쟁이_문준호" />
     <MESSAGE value="SWEA_d3_1289_메모리복구_지원" />
-    <option name="LAST_COMMIT_MESSAGE" value="SWEA_d3_1289_메모리복구_지원" />
+    <MESSAGE value="250210_2309_일곱난쟁이_문준호" />
+    <option name="LAST_COMMIT_MESSAGE" value="250210_2309_일곱난쟁이_문준호" />
   </component>
 </project>
