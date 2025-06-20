@@ -5,9 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/b5_27433_팩토리얼2/jioni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetsGoMoonSong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Dosik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SWEA/d2_2001_파리퇴치/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SWEA/d3_1289_메모리복구/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SWEA/d3_1289_메모리복구/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SWEA/d3_14555_공과잡초/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SWEA/d3_14555_공과잡초/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b1_2309_일곱난쟁이/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b1_2309_일곱난쟁이/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b1_2869_달팽이/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_1371_가장많은글자/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_1952_영식이와친구들/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_2292_벌집/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_2292_벌집/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_27160_할리갈리/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_32979_아파트/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b2_32979_아파트/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/b5_27433_팩토리얼2/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s4_2164_카드2/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s4_2485_가로수/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s5_17286_유미/Joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s5_17286_유미/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s5_2839_설탕배달/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/baekjoon/s5_2839_설탕배달/joonho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/lv1_hash_완주하지못한선수/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/lv1_hash_포켓몬/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/lv2_hash_의상/jioni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/programmers/lv2_hash_전화번호목록/jioni.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +58,7 @@
         <entry key="$PROJECT_DIR$" value="joonho" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -35,12 +66,12 @@
     &quot;assignee&quot;: &quot;munjh61&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JionisGenius/LetsGoMoonSong.git&quot;,
-    &quot;accountId&quot;: &quot;e97f7eb0-ec98-4e4d-857b-ac4d86fcb26c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JionisGenius/LetsGoMoonSong.git",
+    "accountId": "0cd25fa8-77c6-4cdd-a96a-134c67132f7a"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -58,7 +89,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Documents/LetsGoMoonSong",
+    "last_opened_file_path": "C:/Users/junho/OneDrive/Desktop/git/LetsGoMoonSong/ProblemSolved",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
