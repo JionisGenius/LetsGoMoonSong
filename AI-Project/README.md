@@ -1,9 +1,9 @@
-#[해커톤 주제3] AI 영어 스터디 드라이버
-###프로젝트명:
+# [해커톤 주제3] AI 영어 스터디 드라이버
+### 프로젝트명:
 
 AI 영어 스터디 드라이버 (AI English Study Driver)
 
-###팀명/개발자명:
+### 팀명/개발자명:
 
 팀 문송합니다 / 문준호, 송지원
 
@@ -28,6 +28,7 @@ OpenAI GPT 기반:
 문장별 학습 포인트 요약
 Notion API + MCP 연동:
 학습 내용 자동 정리 및 저장 ("오늘 배운 표현", "중요 단어" 섹션 등)
+
 ✳️ 선택 기능 (Advanced Features)
 
 운전자가 특정 문장이나 단어를 말로 요청하면 발음 평가 제공
@@ -53,16 +54,11 @@ Notion 연동: Notion API + MCP (Model Context Protocol)
 5. 예상 결과물
 
 운전 중 들은 영어 문장 자동 정리
-매일 Notion에 학습 내용 저장 (자동 분류된 표현, 번역, 예문 등)
+매일 Notion에 학습 내용 저장 (자동 분류된 표현, 번역, 예문 등) 
 예시:
-makefile
-
-복사
-
-편집
-문장: “The weather today is gorgeous!”
-번역: 오늘 날씨 정말 좋다!
-표현 포인트: "gorgeous" = 정말 멋진, 환상적인
-6. 실제 결과물 링크 혹은 첨부파일
 ![Image](https://github.com/user-attachments/assets/dc0c8020-a618-4772-af21-c8f056f62a1c)
+
+
+6. 실제 결과물 링크 혹은 첨부파일
+
 🔗 GitHub 저장소 바로가기
