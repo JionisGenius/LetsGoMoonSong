@@ -64,5 +64,5 @@ makefile
 번역: 오늘 날씨 정말 좋다!
 표현 포인트: "gorgeous" = 정말 멋진, 환상적인
 6. 실제 결과물 링크 혹은 첨부파일
-
+![Image](https://github.com/user-attachments/assets/dc0c8020-a618-4772-af21-c8f056f62a1c)
 🔗 GitHub 저장소 바로가기
