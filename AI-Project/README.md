@@ -39,14 +39,18 @@ Notion API + MCP 연동:
 영어 학습 퀴즈 생성 (AI가 학습 내용을 기반으로 문제 출제)
 주간/월간 학습 리포트 생성 및 TTS 음성 피드백
 음성으로 Notion 정리 내용 요약 요청 시 읽어주기 기능 (TTS)
-3. 기술 스택 및 아키텍처
+
+
+### 3. 기술 스택 및 아키텍처
 
 Frontend (간단한 설정 UI): Vue.js
 Backend: Spring Boot 3.5.4-SNAPSHOT
 AI 서비스: OpenAI GPT-4 (Java 연동)
 Notion 연동: Notion API + MCP (Model Context Protocol)
 음성처리: OpenAI gpt TTS STT 또는 Google Speech-to-Text
-4. 개발 계획
+
+
+### 4. 개발 계획
 
 ⏱ MVP 기능 (2.5시간 내 구현 목표)
 
