@@ -24,7 +24,8 @@ public class AiController {
 
     @GetMapping("/chatGPT")
     public ResponseEntity<String> chat (@RequestParam("message") String message){
-        String result = openAiChatModel.call(message);
+        String prompt = "너는 영어교육 어쩌구 저쩌구 페르소나 넣고, 대답할 땐 주절주절하지말고 오직 본문과 해당 번역만 말해줘. 영어 문장과 해당 번역한 한글을 번갈아가면서 대답해";
+        String result = openAiChatModel.call(prompt + "\n---------\n" +message);
         return new ResponseEntity<>(result, HttpStatus.OK);
     }
 }
