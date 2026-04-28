@@ -33,12 +33,12 @@
     &quot;assignee&quot;: &quot;munjh61&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JionisGenius/LetsGoMoonSong.git&quot;,
-    &quot;accountId&quot;: &quot;7c7c268c-4bf2-422f-8496-60eb14593bc7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JionisGenius/LetsGoMoonSong.git",
+    "accountId": "e97f7eb0-ec98-4e4d-857b-ac4d86fcb26c"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -58,7 +58,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SelfStudy/git/LetsGoMoonSong/ProblemSolved",
+    "last_opened_file_path": "C:/Users/gram14/Desktop/git_repo/LetsGoMoonSong/ProblemSolved",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,14 +88,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
