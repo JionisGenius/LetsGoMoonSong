@@ -33,12 +33,12 @@
     &quot;assignee&quot;: &quot;munjh61&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JionisGenius/LetsGoMoonSong.git",
-    "accountId": "e97f7eb0-ec98-4e4d-857b-ac4d86fcb26c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JionisGenius/LetsGoMoonSong.git&quot;,
+    &quot;accountId&quot;: &quot;e97f7eb0-ec98-4e4d-857b-ac4d86fcb26c&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,6 +73,7 @@
     "애플리케이션.MultiScreenShot.executor": "Run",
     "애플리케이션.ScreenShot.executor": "Run",
     "애플리케이션.dosik.executor": "Run",
+    "애플리케이션.g2.executor": "Run",
     "애플리케이션.jioni.executor": "Run",
     "애플리케이션.joonho.executor": "Run"
   },
