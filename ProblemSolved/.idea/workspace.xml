@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250922 스크린샷">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ff3505b-5a2c-416e-a970-e34695de5a76" name="변경" comment="250922 스크린샷" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -58,7 +57,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gram14/Desktop/git_repo/LetsGoMoonSong/ProblemSolved",
+    "last_opened_file_path": "C:/Users/gram14/Documents/GitHub/LetsGoMoonSong/ProblemSolved",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +68,9 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Calc.executor": "Run",
     "애플리케이션.Dosik.executor": "Run",
+    "애플리케이션.Gumon.executor": "Run",
     "애플리케이션.MultiScreenShot.executor": "Run",
     "애플리케이션.ScreenShot.executor": "Run",
     "애플리케이션.dosik.executor": "Run",
@@ -99,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737984229123</updated>
       <workItem from="1767134675652" duration="17761000" />
+      <workItem from="1778327545379" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="프로젝트 생성">
       <option name="closed" value="true" />
