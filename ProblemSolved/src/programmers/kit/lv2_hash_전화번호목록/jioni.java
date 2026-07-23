@@ -1,6 +1,5 @@
-package programmers.lv2_hash_전화번호목록;
+package programmers.kit.lv2_hash_전화번호목록;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class jioni {

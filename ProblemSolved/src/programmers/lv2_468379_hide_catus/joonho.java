@@ -1,4 +1,4 @@
-package programmers.hide_catus;
+package programmers.lv2_468379_hide_catus;
 
 // timeout
 public class joonho {
