@@ -30,7 +30,9 @@ public class joonho {
                 locY[i] = sc.nextInt();
             }
             E = sc.nextDouble(); // 세율 실수 E
-
+            // ===== 입력 부분 끝 =====
+            // ===== 크루스칼 시작 =====
+            // 간선 입력
             List<Edge> edges = new ArrayList<>();
             for (int i = 1; i <= N; i++) {
                 for (int j = 1; j < i; j++) {
@@ -40,16 +42,16 @@ public class joonho {
                     edges.add(new Edge(i, j, dist));
                 }
             }
+            // 간선 오름차순 정렬
             edges.sort((e1, e2) -> Long.compare(e1.d, e2.d));
-            // ===== 입력 부분 끝 =====
-            // ===== 크루스칼 시작 =====
+            // 대표 정하기
             p = new int[N + 1]; // 대표를 저장할 배열
             // 일단 본인이 자신의 대표
             for (int i = 1; i <= N; i++) {
                 p[i] = i;
             }
             // 변수 선언
-            long answer = 0;
+            long distSum = 0;
             int pick = 0; // 뽑은 갯수
             // 작은 순서대로 돌아가면서 연결하기
             for (Edge edge : edges) {
@@ -60,12 +62,12 @@ public class joonho {
                 if (ps != pe) {
                     union(ps, pe);
                     pick += 1;
-                    answer += edge.d;
+                    distSum += edge.d; // 거리제곱
                 }
                 // 간선은 정점의 수보다 1개 적어야함. 탈출!
                 if (pick == N - 1) break;
             }
-            answer = Math.round(E * answer);
+            long answer = Math.round(E * distSum); // 비용 = 세율 * 거리제곱
             sb.append("#")
                     .append(tc)
                     .append(" ")
@@ -84,8 +86,8 @@ public class joonho {
     }
 
     // 대표 통합
-    static void union(int pEdge1, int pEdge2) {
-        p[pEdge1] = pEdge2;
+    static void union(int px1, int px2) {
+        p[px1] = px2;
     }
 
     static class Edge {
