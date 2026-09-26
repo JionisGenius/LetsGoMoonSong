@@ -21,7 +21,7 @@ for tc in range(1, T+1):
                 # 주변 이어진 섬 탐색 시작
                 while queue: # 큐가 비어있으면 이어진 섬들을 다 처리한 것
                     # 현재 땅
-                    r, c = queue.pop() # 이어진 섬 중 큐에 첫빠따 꺼내기
+                    r, c = queue.popleft() # 이어진 섬 중 큐에 첫빠따 꺼내기
                     visited[r][c] = True # 도장찍기
                     # 다음 땅
                     for d in range(4): # 4 방향 체크
