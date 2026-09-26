@@ -6,6 +6,19 @@ visited = [] #방문 여부
 dr = [-1, 1, 0, 0]
 dc = [0, 0, -1, 1]
 
+def dfs(r, c):
+    # 도장 찍기 준호 다녀감~
+    visited[r][c]=True
+    # 1. 제한 부분
+    # 없음
+    # 2. 재귀 부분
+    for d in range(4):
+        nr, nc = r+dr[d], c+dc[d]
+        if nr < 0 or nr >= N or nc < 0 or nc >= M:
+            continue
+        if matrix[nr][nc]=="L" and visited[nr][nc]==False:
+            dfs(nr, nc)
+
 # TestCase
 for tc in range(1, T+1):
     # Input
@@ -24,14 +37,3 @@ for tc in range(1, T+1):
     print(f'#{tc} {cnt}')
 
 
-def dfs(r, c):
-    # 도장 찍기 준호 다녀감~
-    visited[r][c]=True
-    # 1. 제한 부분
-    # 없음
-    # 2. 재귀 부분
-    for d in range(4):
-        nr, nc = r+dr[d], c+dc[d]
-        if nr < 0 or nr >= N or nc < 0 or nc >= M:
-            continue
-        dfs(nr, nc)
